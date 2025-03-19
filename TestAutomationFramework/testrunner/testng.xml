@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Learning Automation">
+  <test thread-count="5" name="Automation">
+    <classes>
+      <class name="testcases.MyFirstTestFW">
+ 	  </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
